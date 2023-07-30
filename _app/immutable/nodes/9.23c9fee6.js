@@ -1,0 +1,10 @@
+import{s as w,f as C,n as x}from"../chunks/scheduler.1f6706a1.js";import{S as z,i as B,g as d,s as v,r as I,h as m,j as b,y as M,c as y,u as k,f,k as r,a as E,x as l,v as S,d as T,t as q,w as D}from"../chunks/index.bf335708.js";import{M as F}from"../chunks/Menu.01985b8d.js";const H="/darkerbess.github.io/_app/immutable/assets/cristo.7090ebb0.png";function L($){let t,e,i,g=`<p class="title svelte-1rptlhs">Faith in Brazil</p> <p class="subtitle svelte-1rptlhs">Welcome to the spiritual mosaic of Brazil, where faith dances in a
+        kaleidoscope of beliefs! From the rhythmic beats of Candomblé&#39;s ancient
+        rituals to the solemn beauty of Catholic processions, Brazil&#39;s religious
+        tapestry weaves together a vibrant symphony of traditions. Embracing
+        Afro-Brazilian religions, indigenous practices, and a strong Catholic
+        heritage, this colorful fusion of faith creates a harmonious melody that
+        resonates deep within the soul of this diverse and captivating nation.
+        In Brazil, the sacred and the celebratory blend in a breathtaking dance
+        of devotion, reflecting the unity in diversity that defines this land of
+        wonder and enchantment.</p>`,u,n,p,s,_,c;return n=new F({}),{c(){t=d("section"),e=d("div"),i=d("div"),i.innerHTML=g,u=v(),I(n.$$.fragment),p=v(),s=d("img"),this.h()},l(a){t=m(a,"SECTION",{class:!0});var h=b(t);e=m(h,"DIV",{class:!0});var o=b(e);i=m(o,"DIV",{class:!0,"data-svelte-h":!0}),M(i)!=="svelte-11pcua"&&(i.innerHTML=g),u=y(o),k(n.$$.fragment,o),p=y(o),s=m(o,"IMG",{src:!0,class:!0,alt:!0,draggable:!0}),o.forEach(f),h.forEach(f),this.h()},h(){r(i,"class",""),C(s.src,_=H)||r(s,"src",_),r(s,"class","render svelte-1rptlhs"),r(s,"alt","Pelé"),r(s,"draggable","false"),r(e,"class","hero-body"),r(t,"class","hero is-primary is-fullheight is-hero-image svelte-1rptlhs")},m(a,h){E(a,t,h),l(t,e),l(e,i),l(e,u),S(n,e,null),l(e,p),l(e,s),c=!0},p:x,i(a){c||(T(n.$$.fragment,a),c=!0)},o(a){q(n.$$.fragment,a),c=!1},d(a){a&&f(t),D(n)}}}class A extends z{constructor(t){super(),B(this,t,null,L,w,{})}}export{A as component};
