@@ -24,7 +24,7 @@
       >
     </div>
     <Menu />
-    <img src={neymar_render} class="render" alt="Neymar" draggable="false" />
+    <img src="https:/{neymar_render}" class="render" alt="Neymar" draggable="false" />
   </div>
 </section>
 
