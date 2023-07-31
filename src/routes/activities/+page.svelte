@@ -19,7 +19,7 @@
       </p>
     </div>
     <Menu />
-    <img src="https:/{kaka}" class="render" alt="coffe" draggable="false" />
+    <img src="https:/{kaka}" class="render" alt="kaka" draggable="false" />
   </div>
 </section>
 
