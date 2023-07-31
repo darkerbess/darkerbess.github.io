@@ -31,19 +31,19 @@
     width: 50%;
     font-weight: 500;
   }
-  .hero-body {
-    position: relative;
-  }
   .is-hero-image {
     position: relative;
+    background: linear-gradient(to top, #012169aa, #012169aa),
+      url("https://darkerbess.github.io/_app/immutable/assets/samba.04abd987.jpg") no-repeat center center;
+    background-size: cover;
   }
   .hero-body {
-    position: relative;
+    position: relative !important;
   }
   .render {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width: 30%;
+    position: absolute !important;
+    bottom: 0 !important;
+    left: 50% !important;
+    width: 30% !important;
   }
 </style>
