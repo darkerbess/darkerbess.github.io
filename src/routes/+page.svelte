@@ -59,7 +59,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #009739aa, #009739aa),
-      url("https://darkerbess.github.io/_app/immutable/assets/wallpaper_flag.31a3b8bab.png") no-repeat center center;
+      url("$lib/assets/wallpaper_flag.png") no-repeat center center;
     background-size: cover;
   }
   
