@@ -42,7 +42,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #009739aa, #009739aa),
-      url("https://darkerbess.github.io/_app/immutable/assets/activities.ea487385.jpg") no-repeat center center;
+      url("https://github.com/darkerbess/darkerbess.github.io/blob/master/src/lib/assets/activities.jpg?raw=true") no-repeat center center;
     background-size: cover;
   }
   .hero-body {
