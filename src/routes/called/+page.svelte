@@ -18,8 +18,7 @@
       </p>
     </div>
     <Menu />
-    <img src="https:/{samba}" class="render" alt="Samba" draggable="false" />
-  </div>
+    <img src="https:/{samba}" class="render" alt="Samba" draggable="false" /> </div>
 </section>
 
 <style lang="scss">
@@ -47,5 +46,8 @@
     bottom: 0;
     left: 60%;
     width: 30%;
+  }
+  .hero-body {
+    position: relative;
   }
 </style>

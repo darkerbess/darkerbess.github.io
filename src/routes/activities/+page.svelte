@@ -42,6 +42,11 @@
       url("https://darkerbess.github.io/_app/immutable/assets/activities.ea487385.jpg") no-repeat center center;
     background-size: cover;
   }
+  
+  .hero-body {
+    position: relative;
+  }
+
   .render {
     position: absolute;
     bottom: 0;

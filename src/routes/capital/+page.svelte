@@ -36,6 +36,10 @@
     font-weight: 500;
   }
   
+  .hero-body {
+    position: relative;
+  }
+  
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #FEDD00aa, #FEDD00aa),

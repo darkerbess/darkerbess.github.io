@@ -1,5 +1,5 @@
 <script>
-  import coxinha from '$lib/assets/renders/coxinha.png'
+  import coxinha from "$lib/assets/renders/coxinha.png";
   import Menu from "$lib/Menu.svelte";
 </script>
 
@@ -8,15 +8,20 @@
     <div class="">
       <p class="title">Typical Food</p>
       <p class="subtitle">
-        Feijoada<br>
-        Coxinha<br>
-        Moqueca<br>
-        Pao de Queijo<br>
-        Brigadeiro<br>
+        Feijoada<br />
+        Coxinha<br />
+        Moqueca<br />
+        Pao de Queijo<br />
+        Brigadeiro<br />
       </p>
     </div>
     <Menu />
-    <img src="https:/{coxinha}" class="render" alt="Coxinha" draggable="false" />
+    <img
+      src="https:/{coxinha}"
+      class="render"
+      alt="Coxinha"
+      draggable="false"
+    />
   </div>
 </section>
 
@@ -33,11 +38,12 @@
     width: 50%;
     font-weight: 500;
   }
-  
+
   .is-hero-image {
     position: relative;
-    background: linear-gradient(to top, #FEDD00aa, #FEDD00aa),
-      url("https://darkerbess.github.io/_app/immutable/assets/feijoada.14676266.jpg") no-repeat center center;
+    background: linear-gradient(to top, #fedd00aa, #fedd00aa),
+      url("https://darkerbess.github.io/_app/immutable/assets/feijoada.14676266.jpg")
+        no-repeat center center;
     background-size: cover;
   }
   .render {
@@ -45,5 +51,8 @@
     bottom: 0;
     left: 30%;
     width: 50%;
+  }
+  .hero-body {
+    position: relative;
   }
 </style>

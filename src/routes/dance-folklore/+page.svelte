@@ -43,4 +43,7 @@
     left: 50%;
     width: 30%;
   }
+  .hero-body {
+    position: relative;
+  }
 </style>
