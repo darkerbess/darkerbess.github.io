@@ -49,9 +49,6 @@
   
   .is-hero-image {
     position: relative;
-    background: linear-gradient(to top, #012169aa, #012169aa),
-      url("https://darkerbess.github.io/_app/immutable/assets/economy.51e5f7ed.jpg") no-repeat center center;
-    background-size: cover;
   }
   .hero-body {
     position: relative;

@@ -36,9 +36,6 @@
   }
   .is-hero-image {
     position: relative;
-    background: linear-gradient(to top, #012169aa, #012169aa),
-      url("https://darkerbess.github.io/_app/immutable/assets/samba.04abd987.jpg") no-repeat center center;
-    background-size: cover;
   }
   .hero-body {
     position: relative;
