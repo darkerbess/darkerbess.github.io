@@ -9,16 +9,16 @@
 
 <aside class="menu ml-auto is-size-5">
   <ul class="menu-list">
-    <li><a class={menu_url('/')} href='{base}/'>Name</a></li>
-    <li><a class={menu_url('/capital')} href='{base}/capital'>Capital</a></li>
-    <li><a class={menu_url('/coin')} href='{base}/coin'>Coin</a></li>
-    <li><a class={menu_url('/religion')} href='{base}/religion'>Religion</a></li>
-    <li><a class={menu_url('/called')} href='{base}/called'>Called</a></li>
-    <li><a class={menu_url('/economy')} href='{base}/economy'>Economy</a></li>
-    <li><a class={menu_url('/touristical-places')} href='{base}/touristical-places'>Touristical Places</a></li>
-    <li><a class={menu_url('/typical-food')} href='{base}/typical-food'>Typical Food</a></li>
-    <li><a class={menu_url('/dance-folklore')} href='{base}/dance-folklore'>Dance Folklore</a></li>
-    <li><a class={menu_url('/activities')} href='{base}/activities'>Activities</a></li>
+    <li><a class={menu_url('/')} href='{base}/' target="_blank">Name</a></li>
+    <li><a class={menu_url('/capital')} href='{base}/capital' target="_blank">Capital</a></li>
+    <li><a class={menu_url('/coin')} href='{base}/coin' target="_blank">Coin</a></li>
+    <li><a class={menu_url('/religion')} href='{base}/religion' target="_blank">Religion</a></li>
+    <li><a class={menu_url('/called')} href='{base}/called' target="_blank">Called</a></li>
+    <li><a class={menu_url('/economy')} href='{base}/economy' target="_blank">Economy</a></li>
+    <li><a class={menu_url('/touristical-places')} href='{base}/touristical-places' target="_blank">Touristical Places</a></li>
+    <li><a class={menu_url('/typical-food')} href='{base}/typical-food' target="_blank">Typical Food</a></li>
+    <li><a class={menu_url('/dance-folklore')} href='{base}/dance-folklore' target="_blank">Dance Folklore</a></li>
+    <li><a class={menu_url('/activities')} href='{base}/activities' target="_blank">Activities</a></li>
   </ul>
 </aside>
 
