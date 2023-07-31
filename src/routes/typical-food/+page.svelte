@@ -16,7 +16,7 @@
       </p>
     </div>
     <Menu />
-    <img src={coxinha} class="render" alt="Coxinha" draggable="false" />
+    <img src="https:/{coxinha}" class="render" alt="Coxinha" draggable="false" />
   </div>
 </section>
 
@@ -37,7 +37,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #FEDD00aa, #FEDD00aa),
-      url("$lib/assets/feijoada.jpg") no-repeat center center;
+      url("https://darkerbess.github.io/_app/immutable/assets/feijoada.14676266.jpg") no-repeat center center;
     background-size: cover;
   }
   .render {

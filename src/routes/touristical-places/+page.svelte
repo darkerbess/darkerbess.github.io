@@ -20,7 +20,7 @@
       </p>
     </div>
     <Menu />
-    <img src={palm} class="render" alt="Palm" draggable="false" />
+    <img src="https:/{palm}" class="render" alt="Palm" draggable="false" />
   </div>
 </section>
 
@@ -40,7 +40,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #009739aa, #009739aa),
-      url("$lib/assets/touristical-place.jpg") no-repeat center center;
+      url("https://darkerbess.github.io/_app/immutable/assets/touristical-place.9abba3c9.jpg") no-repeat center center;
     background-size: cover;
   }
   .render {

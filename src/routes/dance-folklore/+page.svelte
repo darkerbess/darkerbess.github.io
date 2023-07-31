@@ -14,7 +14,7 @@
       </p>
     </div>
     <Menu />
-    <img src={capoeria} class="render" alt="Capoeira" draggable="false" />
+    <img src="https:/{capoeria}" class="render" alt="Capoeira" draggable="false" />
   </div>
 </section>
 
@@ -34,7 +34,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #012169aa, #012169aa),
-      url("$lib/assets/samba.jpg") no-repeat center center;
+      url("https://darkerbess.github.io/_app/immutable/assets/samba.04abd987.jpg") no-repeat center center;
     background-size: cover;
   }
   .render {

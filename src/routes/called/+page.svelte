@@ -18,7 +18,7 @@
       </p>
     </div>
     <Menu />
-    <img src={samba} class="render" alt="Samba" draggable="false" />
+    <img src="https:/{samba}" class="render" alt="Samba" draggable="false" />
   </div>
 </section>
 
@@ -39,7 +39,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #FEDD00aa, #FEDD00aa),
-      url("$lib/assets/called.jpg") no-repeat center center;
+      url("https://darkerbess.github.io/_app/immutable/assets/called.4c69d517.jpg") no-repeat center center;
     background-size: cover;
   }
   .render {

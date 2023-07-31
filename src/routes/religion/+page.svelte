@@ -21,7 +21,7 @@
       </p>
     </div>
     <Menu />
-    <img src={cristo} class="render" alt="Pelé" draggable="false" />
+    <img src="https:/{cristo}" class="render" alt="Pelé" draggable="false" />
   </div>
 </section>
 
@@ -42,7 +42,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #009739aa, #009739aa),
-      url("$lib/assets/religion.jpg") no-repeat top center;
+      url("https://darkerbess.github.io/_app/immutable/assets/religion.fe04516b.jpg") no-repeat top center;
     background-size: cover;
   }
   .render {

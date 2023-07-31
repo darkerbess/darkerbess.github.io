@@ -19,7 +19,7 @@
       </p>
     </div>
     <Menu />
-    <img src={coffe} class="render" alt="coffe" draggable="false" />
+    <img src="https:/{coffe}" class="render" alt="coffe" draggable="false" />
   </div>
 </section>
 
@@ -37,12 +37,6 @@
     font-weight: 500;
   }
   
-  .is-hero-image {
-    position: relative;
-    background: linear-gradient(to top, #012169aa, #012169aa),
-      url("$lib/assets/called.jpg") no-repeat center center;
-    background-size: cover;
-  }
   .render {
     position: absolute;
     bottom: 0;
@@ -53,7 +47,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #012169aa, #012169aa),
-      url("$lib/assets/economy.jpg") no-repeat center center;
+      url("https://darkerbess.github.io/_app/immutable/assets/economy.51e5f7ed.jpg") no-repeat center center;
     background-size: cover;
   }
   .render {

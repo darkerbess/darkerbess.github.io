@@ -19,7 +19,7 @@
       </p>
     </div>
     <Menu />
-    <img src={kaka} class="render" alt="coffe" draggable="false" />
+    <img src="https:/{kaka}" class="render" alt="coffe" draggable="false" />
   </div>
 </section>
 
@@ -39,7 +39,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #009739aa, #009739aa),
-      url("$lib/assets/activities.jpg") no-repeat center center;
+      url("https://darkerbess.github.io/_app/immutable/assets/activities.ea487385.jpg") no-repeat center center;
     background-size: cover;
   }
   .render {

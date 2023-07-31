@@ -18,7 +18,7 @@
       </p>
     </div>
     <Menu />
-    <img src={pele_render} class="render" alt="Pelé" draggable="false" />
+    <img src="https:/{pele_render}" class="render" alt="Pelé" draggable="false" />
   </div>
 </section>
 
@@ -39,7 +39,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #FEDD00aa, #FEDD00aa),
-      url("$lib/assets/capital.jpg") no-repeat top center;
+      url("https://darkerbess.github.io/_app/immutable/assets/capital.bb99ce17.jpg") no-repeat top center;
     background-size: cover;
   }
   .render {
