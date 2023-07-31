@@ -28,7 +28,7 @@ jobs:
 
       - name: build
         env:
-          BASE_PATH: '/darkerbess'
+          BASE_PATH: '/darkerbess.github.io'
         run: |
           npm run build
           touch build/.nojekyll
