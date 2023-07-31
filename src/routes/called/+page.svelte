@@ -1,5 +1,5 @@
 <script>
-  import samba from '$lib/assets/renders/samba.png'
+  import samba from "$lib/assets/renders/samba.png";
   import Menu from "$lib/Menu.svelte";
 </script>
 
@@ -18,7 +18,8 @@
       </p>
     </div>
     <Menu />
-    <img src="https:/{samba}" class="render" alt="Samba" draggable="false" /> </div>
+    <img src="https:/{samba}" class="render" alt="Samba" draggable="false" />
+  </div>
 </section>
 
 <style lang="scss">
@@ -35,19 +36,22 @@
     font-weight: 500;
   }
   
+  .hero-body {
+    position: relative;
+  }
+
   .is-hero-image {
     position: relative;
-    background: linear-gradient(to top, #FEDD00aa, #FEDD00aa),
-      url("https://darkerbess.github.io/_app/immutable/assets/called.4c69d517.jpg") no-repeat center center;
+    background: linear-gradient(to top, #fedd00aa, #fedd00aa),
+      url("https://darkerbess.github.io/_app/immutable/assets/called.4c69d517.jpg")
+        no-repeat center center;
     background-size: cover;
   }
+  
   .render {
     position: absolute;
     bottom: 0;
     left: 60%;
     width: 30%;
-  }
-  .hero-body {
-    position: relative;
   }
 </style>

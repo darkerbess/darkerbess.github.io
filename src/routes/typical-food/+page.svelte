@@ -38,6 +38,9 @@
     width: 50%;
     font-weight: 500;
   }
+  .hero-body {
+    position: relative;
+  }
 
   .is-hero-image {
     position: relative;
@@ -51,8 +54,5 @@
     bottom: 0;
     left: 30%;
     width: 50%;
-  }
-  .hero-body {
-    position: relative;
   }
 </style>

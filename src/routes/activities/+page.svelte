@@ -8,9 +8,7 @@
     <div class="">
       <p class="title">Activities</p>
       <p class="subtitle">
-        In Brazil, life is a vibrant fiesta of activities! From kicking a soccer
-        ball on the sandy beaches to reveling in the pulsating rhythms of
-        Carnaval, there's something for everyone. Embrace the thrill of surfing
+        In Brazil, life is a vibrant fiesta of activities! From kicking a soccer ball on the sandy beaches to reveling in the pulsating rhythms of Carnaval, there's something for everyone. Embrace the thrill of surfing
         massive waves, exploring the enchanting Amazon rainforest, or savoring
         the rich flavors of feijoada in a bustling street market. Join in the
         infectious dance of samba at local clubs or witness the passion of
@@ -36,6 +34,11 @@
     width: 50%;
     font-weight: 500;
   }
+  
+  .hero-body {
+    position: relative;
+  }
+  
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #009739aa, #009739aa),
@@ -43,9 +46,6 @@
     background-size: cover;
   }
   
-  .hero-body {
-    position: relative;
-  }
 
   .render {
     position: absolute;

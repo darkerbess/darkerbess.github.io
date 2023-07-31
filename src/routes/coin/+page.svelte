@@ -37,11 +37,8 @@
     font-weight: 500;
   }
   
-  .render {
-    position: absolute;
-    bottom: 0;
-    left: 50%;
-    width: 30%;
+  .hero-body {
+    position: relative;
   }
   
   .is-hero-image {
@@ -50,7 +47,12 @@
       url("https://darkerbess.github.io/_app/immutable/assets/coin.fdf8dc6f.jpg") no-repeat top center;
     background-size: cover;
   }
-  .hero-body {
-    position: relative;
+  
+  .render {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 30%;
   }
+  
 </style>

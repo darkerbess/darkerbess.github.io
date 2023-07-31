@@ -37,6 +37,9 @@
     width: 50%;
     font-weight: 500;
   }
+  .hero-body {
+    position: relative;
+  }
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #009739aa, #009739aa),
@@ -48,8 +51,5 @@
     bottom: 0;
     left: 40%;
     width: 30%;
-  }
-  .hero-body {
-    position: relative;
   }
 </style>

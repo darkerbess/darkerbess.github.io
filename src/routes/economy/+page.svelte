@@ -43,6 +43,9 @@
     left: 60%;
     width: 30%;
   }
+  .hero-body {
+    position: relative;
+  }
   
   .is-hero-image {
     position: relative;
@@ -55,8 +58,5 @@
     bottom: 0;
     left: 40%;
     width: 30%;
-  }
-  .hero-body {
-    position: relative;
   }
 </style>
