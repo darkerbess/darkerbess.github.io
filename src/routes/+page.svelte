@@ -1,5 +1,6 @@
 <script>
   import Menu from "$lib/Menu.svelte";
+  import neymar_render from "$lib/assets/renders/neymar1.png";
 </script>
 
 <section class="hero is-primary is-fullheight is-hero-image">
@@ -23,7 +24,7 @@
       >
     </div>
     <Menu />
-    <img src="https://darkerbess.github.io/_app/immutable/assets/neymar1.a5bdc749.png" class="render" alt="Neymar" draggable="false" />
+    <img src={neymar_render} class="render" alt="Neymar" draggable="false" />
   </div>
 </section>
 
@@ -57,7 +58,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #009739aa, #009739aa),
-      url("https://darkerbess.github.io/_app/immutable/assets/wallpaper_flag.31a3b8ab.jpg") no-repeat center center;
+      url("$lib/assets/wallpaper_flag.jpg") no-repeat center center;
     background-size: cover;
   }
   .render {

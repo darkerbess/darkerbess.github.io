@@ -1,4 +1,5 @@
 <script>
+    import { base } from '$app/paths';
   import kaka from '$lib/assets/renders/kaka.png'
   import Menu from "$lib/Menu.svelte";
 </script>
@@ -19,7 +20,7 @@
       </p>
     </div>
     <Menu />
-    <img src={kaka} class="render" alt="coffe" draggable="false" />
+    <img src="{base}/$lib/assets/renders/kaka.png" class="render" alt="coffe" draggable="false" />
   </div>
 </section>
 
