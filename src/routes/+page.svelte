@@ -54,7 +54,10 @@
   .hero-body {
     position: relative;
   }
-  
+  .hero-body {
+    position: relative;
+  }
+
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #009739aa, #009739aa),
