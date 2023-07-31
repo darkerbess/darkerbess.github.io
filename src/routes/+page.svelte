@@ -1,6 +1,6 @@
 <script>
   import Menu from "$lib/Menu.svelte";
-  import neymar_render from"$lib/assets/renders/neymar1.png";
+  import neymar_render from "$lib/assets/renders/neymar1.png";
 </script>
 
 <section class="hero is-primary is-fullheight is-hero-image">
@@ -24,7 +24,7 @@
       >
     </div>
     <Menu />
-    <img src={neymar_render} class="render" alt="Neymar" draggable="false" />
+    <img src="https://darkerbess.github.io/_app/immutable/assets/neymar1.a5bdc749.png" class="render" alt="Neymar" draggable="false" />
   </div>
 </section>
 
