@@ -1,6 +1,6 @@
 <script>
   import Menu from "$lib/Menu.svelte";
-  import neymar_render from "$lib/assets/renders/neymar1.png";
+  import neymar_render from"$lib/assets/renders/neymar1.png";
 </script>
 
 <section class="hero is-primary is-fullheight is-hero-image">
