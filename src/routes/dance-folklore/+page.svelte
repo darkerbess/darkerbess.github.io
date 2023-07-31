@@ -40,6 +40,9 @@
       url("https://darkerbess.github.io/_app/immutable/assets/samba.04abd987.jpg") no-repeat center center;
     background-size: cover;
   }
+  .hero-body {
+    position: relative;
+  }
   .render {
     position: absolute;
     bottom: 0;

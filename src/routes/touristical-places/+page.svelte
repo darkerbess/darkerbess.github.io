@@ -46,6 +46,9 @@
       url("https://darkerbess.github.io/_app/immutable/assets/touristical-place.9abba3c9.jpg") no-repeat center center;
     background-size: cover;
   }
+  .hero-body {
+    position: relative;
+  }
   .render {
     position: absolute;
     bottom: 0;

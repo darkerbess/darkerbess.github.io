@@ -48,6 +48,9 @@
       url("https://darkerbess.github.io/_app/immutable/assets/religion.fe04516b.jpg") no-repeat top center;
     background-size: cover;
   }
+  .hero-body {
+    position: relative;
+  }
   .render {
     position: absolute;
     bottom: 0;

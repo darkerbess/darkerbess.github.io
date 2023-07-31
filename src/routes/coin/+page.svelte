@@ -47,6 +47,9 @@
       url("https://darkerbess.github.io/_app/immutable/assets/coin.fdf8dc6f.jpg") no-repeat top center;
     background-size: cover;
   }
+  .hero-body {
+    position: relative;
+  }
   
   .render {
     position: absolute;

@@ -46,6 +46,9 @@
       url("https://darkerbess.github.io/_app/immutable/assets/capital.bb99ce17.jpg") no-repeat top center;
     background-size: cover;
   }
+  .hero-body {
+    position: relative;
+  }
   .render {
     position: absolute;
     bottom: 0;

@@ -53,6 +53,9 @@
       url("https://darkerbess.github.io/_app/immutable/assets/economy.51e5f7ed.jpg") no-repeat center center;
     background-size: cover;
   }
+  .hero-body {
+    position: relative;
+  }
   .render {
     position: absolute;
     bottom: 0;

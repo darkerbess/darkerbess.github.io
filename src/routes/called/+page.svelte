@@ -47,6 +47,9 @@
         no-repeat center center;
     background-size: cover;
   }
+  .hero-body {
+    position: relative;
+  }
   
   .render {
     position: absolute;
