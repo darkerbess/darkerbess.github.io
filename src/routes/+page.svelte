@@ -1,5 +1,6 @@
 <script>
   import Menu from "$lib/Menu.svelte";
+  import wallpaper_flag from "$lib/assets/wallpaper_flag.jpg"
   import neymar_render from "$lib/assets/renders/neymar1.png";
 </script>
 
