@@ -1,6 +1,6 @@
 <script>
   import Menu from "$lib/Menu.svelte";
-  import neymar_render from "assets/renders/neymar1.png";
+  import neymar_render from "/assets/renders/neymar1.png";
 </script>
 
 <section class="hero is-primary is-fullheight is-hero-image">
@@ -58,7 +58,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #009739aa, #009739aa),
-      url("$lib/assets/wallpaper_flag.jpg") no-repeat center center;
+      url("/wallpaper_flag.jpg") no-repeat center center;
     background-size: cover;
   }
   .render {
