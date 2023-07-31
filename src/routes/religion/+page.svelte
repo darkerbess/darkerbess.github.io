@@ -45,7 +45,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #009739aa, #009739aa),
-      url("https://darkerbess.github.io/_app/immutable/assets/religion.fe04516b.jpg") no-repeat top center;
+      url("https://github.com/darkerbess/darkerbess.github.io/blob/master/src/lib/assets/religion.jpg?raw=true") no-repeat top center;
     background-size: cover;
   }
   .hero-body {

@@ -43,7 +43,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #fedd00aa, #fedd00aa),
-      url("https://darkerbess.github.io/_app/immutable/assets/called.4c69d517.jpg")
+      url("https://github.com/darkerbess/darkerbess.github.io/blob/master/src/lib/assets/called.jpg?raw=true")
         no-repeat center center;
     background-size: cover;
   }

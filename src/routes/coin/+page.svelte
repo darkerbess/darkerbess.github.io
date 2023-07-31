@@ -44,7 +44,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #012169aa, #012169aa),
-      url("https://darkerbess.github.io/_app/immutable/assets/coin.fdf8dc6f.jpg") no-repeat top center;
+      url("https://github.com/darkerbess/darkerbess.github.io/blob/master/src/lib/assets/coin.jpg?raw=true") no-repeat top center;
     background-size: cover;
   }
   

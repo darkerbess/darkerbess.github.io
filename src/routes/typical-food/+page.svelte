@@ -45,7 +45,7 @@
   .is-hero-image {
     position: relative;
     background: linear-gradient(to top, #fedd00aa, #fedd00aa),
-      url("https://darkerbess.github.io/_app/immutable/assets/feijoada.14676266.jpg")
+      url("https://github.com/darkerbess/darkerbess.github.io/blob/master/src/lib/assets/feijoada.jpg?raw=true")
         no-repeat center center;
     background-size: cover;
   }
